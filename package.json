@@ -1,0 +1,18 @@
+{
+  "name": "GA-AWS-Research",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "author": "GS Tech",
+  "main": "pbx.js",
+  "scripts": {
+    "start": "node pbx.js"
+  },
+  "dependencies": {
+    "coffee-script": "^1.12.7",
+    "gulp-coffee": "^2.3.4",
+    "node-horseman": "^3.3.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
